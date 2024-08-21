@@ -1,22 +1,52 @@
 # InvoiceManager
 An invoice management system enabling users, companies, and institutions to efficiently manage and organize customer invoices.
-<img width="1049" alt="Screenshot 2024-08-21 at 10 21 35 AM" src="https://github.com/user-attachments/assets/db25d52b-003e-4eff-b2be-a9e3608d31f0">
-<img width="313" alt="Screenshot 2024-08-21 at 10 20 48 AM" src="https://github.com/user-attachments/assets/0f89644c-7e91-48a5-a489-9e283229f92b">
-<img width="452" alt="Screenshot 2024-08-21 at 10 20 35 AM" src="https://github.com/user-attachments/assets/f97bdefe-aa4b-4918-bf36-90e208deb4be">
-<img width="300" alt="Screenshot 2024-08-21 at 10 20 09 AM" src="https://github.com/user-attachments/assets/7ca405a5-8f96-4159-9218-5e94b255e20d">
-<img width="304" alt="Screenshot 2024-08-21 at 10 18 53 AM" src="https://github.com/user-attachments/assets/01547d3e-dfcd-4c88-98e6-5adebf87687d">
+
+### Logging In
+
 <img width="337" alt="Screenshot 2024-08-21 at 10 18 26 AM" src="https://github.com/user-attachments/assets/d7fb29e1-2eb6-465e-82d2-af81a7f1d65b">
+<img width="304" alt="Screenshot 2024-08-21 at 10 18 53 AM" src="https://github.com/user-attachments/assets/01547d3e-dfcd-4c88-98e6-5adebf87687d">
+<img width="300" alt="Screenshot 2024-08-21 at 10 20 09 AM" src="https://github.com/user-attachments/assets/7ca405a5-8f96-4159-9218-5e94b255e20d">
+<img width="452" alt="Screenshot 2024-08-21 at 10 20 35 AM" src="https://github.com/user-attachments/assets/f97bdefe-aa4b-4918-bf36-90e208deb4be">
+<img width="313" alt="Screenshot 2024-08-21 at 10 20 48 AM" src="https://github.com/user-attachments/assets/0f89644c-7e91-48a5-a489-9e283229f92b">
+
+### Home Page
+### Preloaded Customers For Demonstration Purpose Only!
+<img width="1049" alt="Screenshot 2024-08-21 at 10 21 35 AM" src="https://github.com/user-attachments/assets/1211285a-40c2-438d-8c85-25fcd814c2db">
 
 
+### Profile 
+### All accounts Will Have SYS-ADMIN Role Upon Account Creation- See Role Table For All Roles
+<img width="929" alt="Screenshot 2024-08-21 at 10 22 39 AM" src="https://github.com/user-attachments/assets/fce16dd2-c2b9-4d34-aa2e-d7b4744438b1">
+<img width="957" alt="Screenshot 2024-08-21 at 10 23 18 AM" src="https://github.com/user-attachments/assets/782d7bfd-62ee-48d9-8708-613cf35599a0">
+<img width="943" alt="Screenshot 2024-08-21 at 10 23 26 AM" src="https://github.com/user-attachments/assets/e833ce08-c27b-48ca-8816-9ae57b1a8f2a">
+<img width="944" alt="Screenshot 2024-08-21 at 10 23 39 AM" src="https://github.com/user-attachments/assets/8c1c958a-2999-4a4f-a801-5e0257ba67c0">
 
+### Customer Add and View 
+<img width="713" alt="Screenshot 2024-08-21 at 1 16 19 PM" src="https://github.com/user-attachments/assets/cec5e35d-62f9-4662-9325-ca5f992b37a5">
 
+New Customer
+<img width="732" alt="Screenshot 2024-08-21 at 1 22 12 PM" src="https://github.com/user-attachments/assets/e1cce456-a32e-4f5c-8eaa-485fde33b0c6">
 
+ALL Customers
+<img width="762" alt="Screenshot 2024-08-21 at 1 22 28 PM" src="https://github.com/user-attachments/assets/af683893-e16e-46e3-96de-ee90d7bcead7">
 
+Customers Info
+<img width="729" alt="Screenshot 2024-08-21 at 1 24 24 PM" src="https://github.com/user-attachments/assets/611cc5b6-56ba-45e5-a110-2b175cffb08b">
 
+### Invoice Add and View
+<img width="765" alt="Screenshot 2024-08-21 at 1 26 24 PM" src="https://github.com/user-attachments/assets/ff0d2f3e-b247-4100-a76c-4ebad187c06e">
+
+All Invoices
+<img width="746" alt="Screenshot 2024-08-21 at 1 47 56 PM" src="https://github.com/user-attachments/assets/e466c358-f2b0-455e-8319-eba24e299c3f">
+
+New Invoices
+<img width="727" alt="Screenshot 2024-08-21 at 1 49 02 PM" src="https://github.com/user-attachments/assets/22268e44-0399-4796-a662-9e8265e3d149">
+
+Invoice Info
+<img width="726" alt="Screenshot 2024-08-21 at 1 48 12 PM" src="https://github.com/user-attachments/assets/dd3aba9e-d0e5-4293-83ff-d2732f779d64">
 
 
 # Backend TechStack
-
     Programming Language:
         Java: The primary programming language used for building the backend application.
 
