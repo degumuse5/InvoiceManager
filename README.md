@@ -1,21 +1,13 @@
 # InvoiceManager
 An invoice management system enabling users, companies, and institutions to efficiently manage and organize customer invoices.
+<img width="1049" alt="Screenshot 2024-08-21 at 10 21 35 AM" src="https://github.com/user-attachments/assets/db25d52b-003e-4eff-b2be-a9e3608d31f0">
+<img width="313" alt="Screenshot 2024-08-21 at 10 20 48 AM" src="https://github.com/user-attachments/assets/0f89644c-7e91-48a5-a489-9e283229f92b">
+<img width="452" alt="Screenshot 2024-08-21 at 10 20 35 AM" src="https://github.com/user-attachments/assets/f97bdefe-aa4b-4918-bf36-90e208deb4be">
+<img width="300" alt="Screenshot 2024-08-21 at 10 20 09 AM" src="https://github.com/user-attachments/assets/7ca405a5-8f96-4159-9218-5e94b255e20d">
+<img width="304" alt="Screenshot 2024-08-21 at 10 18 53 AM" src="https://github.com/user-attachments/assets/01547d3e-dfcd-4c88-98e6-5adebf87687d">
+<img width="337" alt="Screenshot 2024-08-21 at 10 18 26 AM" src="https://github.com/user-attachments/assets/d7fb29e1-2eb6-465e-82d2-af81a7f1d65b">
 
-<img width="944" alt="Screenshot 2024-08-21 at 10 23 39 AM" src="https://github.com/user-attachments/assets/9a866488-0d8d-4625-b626-75981512f82d">
-<img width="943" alt="Screenshot 2024-08-21 at 10 23 26 AM" src="https://github.com/user-attachments/assets/77ae72ae-5f11-483e-8a27-98c3a94f12cd">
-<img width="957" alt="Screenshot 2024-08-21 at 10 23 18 AM" src="https://github.com/user-attachments/assets/edbdb073-199b-4c69-a194-6b1e71197fa4">
-<img width="929" alt="Screenshot 2024-08-21 at 10 22 39 AM" src="https://github.com/user-attachments/assets/b0f2a048-3f02-4788-ae57-b499e37b1405">
-<img width="1049" alt="Screenshot 2024-08-21 at 10 21 35 AM" src="https://github.com/user-attachments/assets/d3076ea7-adfd-4989-844e-7e4b81a34887">
-<img width="313" alt="Screenshot 2024-08-21 at 10 20 48 AM" src="https://github.com/user-attachments/assets/70b1805b-2895-4038-ae8b-85a61d0cf8c2">
-<img width="452" alt="Screenshot 2024-08-21 at 10 20 35 AM" src="https://github.com/user-attachments/assets/bedde856-8e5d-44bb-9580-a71dca3e6d0d">
-<img width="297" alt="Screenshot 2024-08-21 at 10 20 21 AM" src="https://github.com/user-attachments/assets/00c3cd9f-8f29-401b-a632-4b7f2163268c">
-<img width="300" alt="Screenshot 2024-08-21 at 10 20 09 AM" src="https://github.com/user-attachments/assets/5b8e7671-a71a-445b-a80d-a1eb06f2277b">
-<img width="311" alt="Screenshot 2024-08-21 at 10 19 59 AM" src="https://github.com/user-attachments/assets/47b26d33-ef2d-4328-a0e5-25643aacd3fe">
-<img width="309" alt="Screenshot 2024-08-21 at 10 19 45 AM" src="https://github.com/user-attachments/assets/f9314ba2-bed4-4903-90cf-1f50c93e0416">
-<img width="298" alt="Screenshot 2024-08-21 at 10 19 19 AM" src="https://github.com/user-attachments/assets/20e6c52b-afb8-4ad5-a931-962387fa8b2c">
-<img width="309" alt="Screenshot 2024-08-21 at 10 19 02 AM" src="https://github.com/user-attachments/assets/050d6df6-66c5-43f5-9c30-8022064719d2">
-<img width="304" alt="Screenshot 2024-08-21 at 10 18 53 AM" src="https://github.com/user-attachments/assets/a9de8fdf-ee93-4dd8-80ad-bc4aa5a474d1">
-<img width="337" alt="Screenshot 2024-08-21 at 10 18 26 AM" src="https://github.com/user-attachments/assets/1e073f58-18c5-44e3-8a7b-fe52ad8e4578">
+
 
 
 
