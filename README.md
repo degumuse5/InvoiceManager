@@ -1,7 +1,12 @@
 # InvoiceManager
 An invoice management system enabling users, companies, and institutions to efficiently manage and organize customer invoices.
 
-# Backend TechStack
+### [Backend TechStack](#backend-techstack)
+### [Backend Documentation](#backend-documentation)
+### [FrontEnd Tech Stack](#frontend-tech-stack)
+### [FrontEnd Documentation](#frontend-documentation)
+
+## Backend TechStack 
 
     Programming Language:
         Java: The primary programming language used for building the backend application.
