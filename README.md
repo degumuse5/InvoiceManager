@@ -1,10 +1,6 @@
 # InvoiceManager
 An invoice management system enabling users, companies, and institutions to efficiently manage and organize customer invoices.
 
-### [Backend TechStack](#backend-techstack)
-### [Backend Documentation](#backend-documentation)
-### [FrontEnd Tech Stack](#frontend-tech-stack)
-### [FrontEnd Documentation](#frontend-documentation)
 
 # Backend TechStack
 
