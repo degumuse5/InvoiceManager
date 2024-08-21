@@ -6,7 +6,7 @@ An invoice management system enabling users, companies, and institutions to effi
 ### [FrontEnd Tech Stack](#frontend-tech-stack)
 ### [FrontEnd Documentation](#frontend-documentation)
 
-## Backend TechStack 
+### [Backend TechStack](#backend-techstack)
 
     Programming Language:
         Java: The primary programming language used for building the backend application.
@@ -25,7 +25,7 @@ An invoice management system enabling users, companies, and institutions to effi
     Containerization:
         Docker: Used to containerize the backend application for consistency across different environments (development, testing, production).
 
-# Backend Documentation  
+### [Backend Documentation](#backend-documentation)
       1. src/main/java/io/invoicemanager/invoicemanager/Application.java
       
           Purpose: This is the main entry point of the Spring Boot application. It contains the main() method which bootstraps the application by launching the Spring Boot framework.
