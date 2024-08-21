@@ -1,0 +1,21 @@
+# Database
+MYSQL_USERNAME: root
+MYSQL_PASSWORD: letmein
+MYSQL_HOST: 192.168.1.216
+MYSQL_PORT: 3306
+MYSQL_DATABASE: securecapita
+
+# Server Config
+CONTAINER_PORT: 8085
+ACTIVE_PROFILE: test
+
+# Email Config
+EMAIL_HOST: smtp.gmail.com
+EMAIL_PORT: 587
+EMAIL_ID: <your email>
+EMAIL_PASSWORD: <your password>
+VERIFY_EMAIL_HOST: http://localhost:${CONTAINER_PORT}
+
+UI_APP_URL: http://localhost:4200
+
+JWT_SECRET: mysecuresecret
